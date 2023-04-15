@@ -11,6 +11,18 @@ Tested only on Windows
 
 Book - https://nostarch.com/python-crash-course-3rd-edition
 
+# Files
+
+src/mpl_squares.py - matplotlib plot square numbers
+
+src/scatter_squares.py - matplotlib scatterplot square numbers
+
+src/scatter_cubes - matplotlib scatterplot cubed numbers
+
+src/random_walk.py - class for randomly generating a list of x and y coords to plot a path
+
+src/rw_visual.py - matplotlib scatterplot the RandomWalk class
+
 # First time setup
 
 ### Create virtual environment
