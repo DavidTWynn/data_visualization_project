@@ -41,7 +41,10 @@ py -m pip install -r requirements.txt
 
 scatter_squares.py
 Blues colormap, setting style, fonts, axis names
-!["Squares plot"](squares_plot.png)
+
+!["Squares plot"](squares_plot.png?raw=True)
+
 scatter_cubes.py
 Custom scatter plat
-!["Cubes plot"](cubes_plot.png)
+
+!["Cubes plot"](cubes_plot.png?raw=True)
