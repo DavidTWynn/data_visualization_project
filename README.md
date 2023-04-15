@@ -7,11 +7,13 @@
 
 Repo for following along with the Python Crash Course 2nd edition project 2 - Data Visualization
 
+Tested only on Windows
+
 Book - https://nostarch.com/python-crash-course-3rd-edition
 
 # First time setup
 
-## Create virtual environment
+### Create virtual environment
 
 ```python
 py -3.11 -m venv venv
@@ -34,3 +36,12 @@ Install requirements
 ```python
 py -m pip install -r requirements.txt
 ```
+
+## Chapter 15
+
+scatter_squares.py
+Blues colormap, setting style, fonts, axis names
+!["Squares plot"](squares_plot.png)
+scatter_cubes.py
+Custom scatter plat
+!["Cubes plot"](cubes_plot.png)
