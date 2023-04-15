@@ -66,3 +66,7 @@ Custom scatter plot for cubing of numbers, copper color map
 Random Walk scatter plot
 
 !["RW Walk scatter plot"](images/rw_visual.png?raw=True)
+
+Custom Random Walk change to a regular plot
+
+!["Custom RW Walk scatter plot"](images/custom_rw_visual.png?raw=True)
