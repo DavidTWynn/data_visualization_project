@@ -43,10 +43,10 @@ scatter_squares.py
 
 Blues colormap, setting style, fonts, axis names
 
-!["Squares plot"](squares_plot.png?raw=True)
+!["Squares plot"](images/squares_plot.png?raw=True)
 
 scatter_cubes.py
 
 Custom scatter plot for cubing of numbers, copper color map
 
-!["Cubes plot"](cubes_plot.png?raw=True)
+!["Cubes plot"](images/cubes_plot.png?raw=True)
