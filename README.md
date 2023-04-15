@@ -40,11 +40,13 @@ py -m pip install -r requirements.txt
 ## Chapter 15
 
 scatter_squares.py
+
 Blues colormap, setting style, fonts, axis names
 
 !["Squares plot"](squares_plot.png?raw=True)
 
 scatter_cubes.py
-Custom scatter plat
+
+Custom scatter plot for cubing of numbers, copper color map
 
 !["Cubes plot"](cubes_plot.png?raw=True)
