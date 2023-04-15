@@ -62,3 +62,7 @@ scatter_cubes.py
 Custom scatter plot for cubing of numbers, copper color map
 
 !["Cubes plot"](images/cubes_plot.png?raw=True)
+
+Random Walk scatter plot
+
+!["RW Walk scatter plot"](images/rw_visual.png?raw=True)
