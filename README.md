@@ -70,3 +70,7 @@ Random Walk scatter plot
 Custom Random Walk change to a regular plot
 
 !["Custom RW Walk scatter plot"](images/custom_rw_visual.png?raw=True)
+
+plotly histogram of rolling a 6 sided dice and a 10 sided dice then adding them up
+
+![plotly histogram](image/d6_d10.jpg)
