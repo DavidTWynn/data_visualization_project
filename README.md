@@ -73,4 +73,4 @@ Custom Random Walk change to a regular plot
 
 plotly histogram of rolling a 6 sided dice and a 10 sided dice then adding them up
 
-![plotly histogram](image/d6_d10.jpg)
+![plotly histogram](images/d6_d10.jpg)
